@@ -15,7 +15,7 @@ const TopSeller = () => {
   const card: TopSellerData[] = [
     {
       id: 1,
-      image: "/TopSell1.png", // Correct path
+      image: "/TopSellshirt1.png", // Correct path
       title: "VERTICAL STRIPED SHIRT",
       price: "$212",
       priceWas: "$232",
@@ -23,7 +23,7 @@ const TopSeller = () => {
     },
     {
       id: 2,
-      image: "/TopSell2.png", // Correct path
+      image: "/TopSellshirt2.png", // Correct path
       title: "COURAGE GRAPHIC T-SHIRT",
       price: "$145",
       priceWas: "",
@@ -31,7 +31,7 @@ const TopSeller = () => {
     },
     {
       id: 3,
-      image: "/TopSell3.png", // Correct path
+      image: "/TopSellshirt3.png", // Correct path
       title: "LOOSE FIT BERMUDA SHORTS",
       price: "$80",
       priceWas: "",
@@ -39,7 +39,7 @@ const TopSeller = () => {
     },
     {
       id: 4,
-      image: "/TopSell4.png", // Correct path
+      image: "/TopSellshirt4.png", // Correct path
       title: "FADED SKINNY JEANS",
       price: "$210",
       priceWas: "",

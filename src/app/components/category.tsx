@@ -19,8 +19,8 @@ const DressStyle = () => {
             <Image
               src="/style1.png" // Replace with your image path
               alt="Dress Style 1"
-              width={407} 
-              height={289} 
+              width={400} 
+              height={400} 
               className="rounded-md"
             />
           </div>
@@ -32,8 +32,8 @@ const DressStyle = () => {
             <Image
               src="/style2.png" // Replace with your image path
               alt="Dress Style 2"
-              width={684} 
-              height={289}
+              width={480} 
+              height={260}
               className="rounded-md"
             />
           </div>
@@ -45,8 +45,8 @@ const DressStyle = () => {
             <Image
               src="/style3.png" // Replace with your image path
               alt="Dress Style 3"
-              width={407} 
-              height={289}
+              width={550} 
+              height={260}
               className="rounded-md"
             />
           </div>
@@ -58,8 +58,8 @@ const DressStyle = () => {
             <Image
               src="/style4.png" // Replace with your image path
               alt="Dress Style 4"
-              width={684} 
-              height={289}
+              width={480} 
+              height={240}
               className="rounded-md"
             />
           </div>

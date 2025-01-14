@@ -1,12 +1,13 @@
 import React from "next/image";
-import Navbar from "./components/navbar"
-import Hero from "./components/hero"
-import Header from "./components/Header"
-import NewArrivals from "./components/newArrivals"
-import TopSelling from "./components/topSelling"
-import Category from "./components/category"
-import Footer from "./components/footer"
-import Youmightalsolike from "./components/Youmightalsolike" 
+import Navbar from "../app/components/navbar";
+import Hero from "../app/components/hero"
+import Header from "../app/components/Header"
+import NewArrivals from "../app/components/newArrivals"
+import TopSelling from "../app/components/topSelling"
+import Category from "../app/components/category"
+import Youmightalsolike from "../app/components/Youmightalsolike"
+import Footer from "../app/components/footer" 
+
 
 export default function page() {
   return (

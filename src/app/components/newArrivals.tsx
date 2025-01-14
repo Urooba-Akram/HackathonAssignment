@@ -15,7 +15,7 @@ const NewArrival = () => {
   const card: NewArrData[] = [
     {
       id: 1,
-      image: "/tshirt.png",
+      image: "/Tshirt1.png",
       title: "T-SHIRT WITH TAPE DETAILS",
       price: "$120",
       priceWas: "",
@@ -23,7 +23,7 @@ const NewArrival = () => {
     },
     {
       id: 2,
-      image: "/jeans.png",
+      image: "/jeansBlue.png",
       title: "SKINNY FIT JEANS",
       price: "$240",
       priceWas: "$260",
@@ -31,7 +31,7 @@ const NewArrival = () => {
     },
     {
       id: 3,
-      image: "/checkered.png",
+      image: "/checkeredShirt.png",
       title: "CHECKERED SHIRT",
       price: "$180",
       priceWas: "",
@@ -39,7 +39,7 @@ const NewArrival = () => {
     },
     {
       id: 4,
-      image: "/striped.png",
+      image: "/stripedShirt.png",
       title: "SLEEVE STRIPED T-SHIRT",
       price: "$130",
       priceWas: "$160",

@@ -15,7 +15,7 @@ const TopSeller = () => {
   const card: TopSellerData[] = [
     {
       id: 1,
-      image: "/Polo with Contrast Trims.png",
+      image: "/PolowithContrastTrims.png",
       title: "Polo with Contrast Trims",
       price: "$212",
       priceWas: "$242",
@@ -23,7 +23,7 @@ const TopSeller = () => {
     },
     {
       id: 2,
-      image: "/Gradient Graphic T-shirt.png",
+      image: "/GradientGraphicT-shirt.png",
       title: "Gradient Graphic T-shirt",
       price: "$145",
       priceWas: "",
@@ -31,7 +31,7 @@ const TopSeller = () => {
     },
     {
       id: 3,
-      image: "/Polo with Tipping Details.png",
+      image: "/PolowithTippingDetails.png",
       title: "Polo with Tipping Details",
       price: "$180",
       priceWas: "",
@@ -39,7 +39,7 @@ const TopSeller = () => {
     },
     {
       id: 4,
-      image: "/Black Striped T-shirt.png",
+      image: "/BlackStripedT-shirt.png",
       title: "Black Striped T-shirt",
       price: "$120",
       priceWas: "$160",

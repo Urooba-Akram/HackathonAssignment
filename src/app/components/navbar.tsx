@@ -27,7 +27,7 @@ export default function navbar(){
   <div className="flex justify-between items-center px-8 py-4">
     <h1 className="text-2xl font-bold text-black px-16">SHOP.CO</h1>
 
-    <nav className="hidden md:flex space-x-8 items-center">
+    <nav className="hidden md:block">
         <a href="#" className="text-slate-600 hover:text-black"> Shop</a>
         <a href="#" className="text-slate-600 hover:text-black"> On Sale</a>
         <a href="#" className="text-slate-600 hover:text-black"> New Arrivals</a>
